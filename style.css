@@ -177,3 +177,26 @@ footer{
     font-size: 12px;
     align-self: center;
 }
+.level6{
+   
+    margin:2%;
+    font-size: 20px;
+    text-align: center;
+}
+.level6 a{
+    color:darkred;
+    text-decoration: none;
+}
+
+
+.level6 a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
